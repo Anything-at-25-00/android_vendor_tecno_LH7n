@@ -406,7 +406,6 @@ PRODUCT_PACKAGES += \
     libmtkproperty \
     libmtkrillog \
     libtneclient \
-    libtranlog \
     libvcodec_oal \
     libvcodecdrv_header_stub \
     libverno \
@@ -836,7 +835,6 @@ PRODUCT_PACKAGES += \
     libksensor \
     libmegface \
     libminiui \
-    libminizip \
     libmipc \
     libmmagent \
     libmml \
